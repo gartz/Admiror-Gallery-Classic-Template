@@ -32,5 +32,6 @@ License
 -------
 
 ![Creative Commons Attribution 3.0 Unported License](http://i.creativecommons.org/l/by/3.0/88x31.png)
+
 Admiror Gallery Classic Template by [Gabriel Reitz Giannattasio](https://github.com/gartz) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 Based on a work at [Admiror Gallery Community](http://www.vasiljevski.com/forum/viewtopic.php?f=19&t=330).

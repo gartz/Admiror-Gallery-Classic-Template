@@ -1,7 +1,7 @@
-Admiror Gallery 2.x Classic Template
+Admiror Gallery 3.x Classic Template
 ====================================
 
-This is a contribution for the template created by [kekeljevi](http://www.vasiljevski.com/forum/memberlist.php?mode=viewprofile&u=53), you can find more info in the [official forum](http://www.vasiljevski.com/forum/viewtopic.php?f=5&t=11).
+This is a contribution for the template created by [kekeljevi](http://www.vasiljevski.com/forum/memberlist.php?mode=viewprofile&u=53), you can find more info in the [official forum](http://www.vasiljevski.com/forum/viewtopic.php?f=19&t=330).
 
 Install
 -------
@@ -27,3 +27,10 @@ Thanks To
 ---------
 
 [Admiror Design Studio](http://www.admiror-design-studio.com/), I'm help to contribute with this free source improviment.
+
+License
+-------
+
+![Creative Commons Attribution 3.0 Unported License](http://i.creativecommons.org/l/by/3.0/88x31.png)
+Admiror Gallery Classic Template by [Gabriel Reitz Giannattasio](https://github.com/gartz) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+Based on a work at [Admiror Gallery Community](http://www.vasiljevski.com/forum/viewtopic.php?f=19&t=330).

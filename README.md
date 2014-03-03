@@ -1,6 +1,8 @@
 Admiror Gallery 3.x Classic Template
 ====================================
 
+[![Analytics](https://ga-beacon.appspot.com/UA-24619548-7/Admiror-Gallery-Classic-Template/readme)](https://github.com/igrigorik/ga-beacon)
+
 This is a contribution for the template created by [kekeljevi](http://www.vasiljevski.com/forum/memberlist.php?mode=viewprofile&u=53), you can find more info in the [official forum](http://www.vasiljevski.com/forum/viewtopic.php?f=19&t=330).
 
 Install
